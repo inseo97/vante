@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/vante/static/css/main.fb9a8911.css",
-    "main.js": "/vante/static/js/main.82f23dc7.js",
+    "main.css": "/vante/static/css/main.2bafc887.css",
+    "main.js": "/vante/static/js/main.d271dbc5.js",
     "static/js/453.d7b755a6.chunk.js": "/vante/static/js/453.d7b755a6.chunk.js",
     "static/media/NotoSansKR-VariableFont_wght.ttf": "/vante/static/media/NotoSansKR-VariableFont_wght.33752a94ca5252213de8.ttf",
     "index.html": "/vante/index.html",
-    "main.fb9a8911.css.map": "/vante/static/css/main.fb9a8911.css.map",
-    "main.82f23dc7.js.map": "/vante/static/js/main.82f23dc7.js.map",
+    "main.2bafc887.css.map": "/vante/static/css/main.2bafc887.css.map",
+    "main.d271dbc5.js.map": "/vante/static/js/main.d271dbc5.js.map",
     "453.d7b755a6.chunk.js.map": "/vante/static/js/453.d7b755a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb9a8911.css",
-    "static/js/main.82f23dc7.js"
+    "static/css/main.2bafc887.css",
+    "static/js/main.d271dbc5.js"
   ]
 }
